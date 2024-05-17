@@ -8,7 +8,7 @@ function f() {
         var secMes= document.getElementById("second_message");
         var nome = sessionStorage.getItem("name");
         secMes.innerHTML="Fammelo un sorriso ora, dai<br>perchè è la cosa più bella che ci sia<br>♥"
-    }, 12000);
+    }, 5000);
 }
 function f2()
 {
